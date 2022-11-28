@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color:white;
+    font-family: monospace;
+}
+
+h1{
+    text-align: center;
+}
+
+p {
+    background-color: rgb(71, 74, 81) ;
+}
+
+#pedro {
+    position:absolute;
+}
+#trybe{
+    color:green;
+}
+
+.nav-list {
+    font-size: 1.15em;
+}
+
+#menu {
+    text-align: center;
+    font-size: 30px;
+}
+
+.text{
+    font-size:15px;
+}
