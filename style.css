@@ -1,19 +1,17 @@
 body {
-    background-color: black;
+    background-color: rgb(71, 74, 81) ;
     color:white;
-    font-family: monospace;
 }
 
+p, ul {
+    font-family:monospace;
+}
 h1{
     text-align: center;
 }
-
-p {
-    background-color: rgb(71, 74, 81) ;
-}
-
 #pedro {
-    position:absolute;
+    position: relative;
+    padding: 30px;
 }
 #trybe{
     color:green;
@@ -26,6 +24,10 @@ p {
 #menu {
     text-align: center;
     font-size: 30px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin: 1px;
 }
 
 .text{
