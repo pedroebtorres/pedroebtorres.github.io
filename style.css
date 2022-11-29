@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(71, 74, 81) ;
+    color:white;
+}
+
+p, ul {
+    font-family:monospace;
+}
+h1{
+    text-align: center;
+}
+#pedro {
+    float: left;
+    padding: 30px;
+    background-color: black;
+}
+#trybe{
+    color:green;
+}
+
+.nav-list {
+    font-size: 1.15em;
+    position: relative;
+}
+
+#menu {
+    text-align: center;
+    font-size: 30px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin: 1px;
+}
+
+.text{
+    font-size:15px;
+    display:inline-block;
+    padding: 50px;
+}
+
+.nav-list {
+    display: block;
+    margin-left: 380px;
+}
+
+footer, h3 {
+    padding-left: 400px;
+}
+
+li:nth-child(odd):hover {
+    background-color: azure;
+    color: black;
+    text-transform: uppercase;
+}
